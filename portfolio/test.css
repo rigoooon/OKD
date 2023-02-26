@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.square_content {
+    max-width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square_content div {
+    width: 50%;
+    height: 50%;
+    background: #ffb6c1;
+}
